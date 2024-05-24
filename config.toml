@@ -1,4 +1,4 @@
-baseURL = 'https://sk4r-git.github.io/'
+baseURL = 'https://sk4r-git.github.io/Blog'
 languageCode = 'en-us'
 title = 'Sk4r; to pwn or not to pwn'
 theme = 'risotto'

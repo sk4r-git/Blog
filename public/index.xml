@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sk4r; to pwn or not to pwn</title>
-    <link>https://sk4r-git.github.io/</link>
+    <link>https://sk4r-git.github.io/Blog/</link>
     <description>Recent content on Sk4r; to pwn or not to pwn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sk4r-git.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sk4r-git.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Difference</title>
-      <link>https://sk4r-git.github.io/</link>
+      <link>https://sk4r-git.github.io/Blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sk4r-git.github.io/</guid>
+      <guid>https://sk4r-git.github.io/Blog/</guid>
       <description>Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Ipsum dolor sit amet, et essent mediocritatem quo.
 About Write-Ups COOP</description>
     </item>
