@@ -2,14 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sk4r-git.github.io/Blog/coop/</loc>
+    <loc>https://sk4r-git.github.io/Blog/</loc>
   </url><url>
-    <loc>http://sk4r-git.github.io/Blog/</loc>
+    <loc>https://sk4r-git.github.io/Blog/categories/</loc>
   </url><url>
-    <loc>http://sk4r-git.github.io/Blog/homepage/</loc>
+    <loc>https://sk4r-git.github.io/Blog/</loc>
   </url><url>
-    <loc>http://sk4r-git.github.io/Blog/categories/</loc>
-  </url><url>
-    <loc>http://sk4r-git.github.io/Blog/tags/</loc>
+    <loc>https://sk4r-git.github.io/Blog/tags/</loc>
   </url>
 </urlset>

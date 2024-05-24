@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sk4r; to pwn or not to pwn</title>
-    <link>http://sk4r-git.github.io/Blog/categories/</link>
+    <link>https://sk4r-git.github.io/Blog/categories/</link>
     <description>Recent content in Categories on Sk4r; to pwn or not to pwn</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://sk4r-git.github.io/Blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sk4r-git.github.io/Blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
