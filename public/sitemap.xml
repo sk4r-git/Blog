@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sk4r-git.github.io/</loc>
+    <loc>https://sk4r-git.github.io/Blog/</loc>
   </url><url>
-    <loc>https://sk4r-git.github.io/categories/</loc>
+    <loc>https://sk4r-git.github.io/Blog/categories/</loc>
   </url><url>
-    <loc>https://sk4r-git.github.io/</loc>
+    <loc>https://sk4r-git.github.io/Blog/</loc>
   </url><url>
-    <loc>https://sk4r-git.github.io/tags/</loc>
+    <loc>https://sk4r-git.github.io/Blog/tags/</loc>
   </url>
 </urlset>
