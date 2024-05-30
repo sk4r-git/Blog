@@ -1,11 +1,12 @@
 ---
-title: 'Our Difference'
-button: 'About us'
-weight: 2
+title: 'Sk4r'
+button: 'aaaaaaaaaaaaaaaaaa'
+weight: 1
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Ipsum dolor sit amet, et essent mediocritatem quo.
+In Progress.
 
-[About](/Blog/homepage)
-[Write-Ups](/Blog/Write_up)
-[COOP](/Blog/coop)
+
+[About](/homepage)
+[Write-Ups](/write_up)
+[COOP](/coop)
